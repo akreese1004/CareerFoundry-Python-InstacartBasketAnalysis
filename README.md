@@ -9,7 +9,7 @@ Performed an initial data and exploratory analysis for a grocery company to sugg
 -Provided visual charts, data indexes, and industry insights to be compiled into a master document for stakeholder review.
 
 
-** Objective:**
+**Objective:**
 You’re an analyst for an existing company, Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
 want to uncover more information about their sales patterns. Your task is to

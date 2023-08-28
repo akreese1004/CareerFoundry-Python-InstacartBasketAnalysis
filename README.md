@@ -3,6 +3,7 @@
 # Instacart Basket Analysis
 
 **Project Summary:**
+
 Performed an initial data and exploratory analysis for a grocery company to suggest insightful business strategies for sales and marketing stakeholders.
 -Formulated diverse Python scripts to create, clean, derive variables, and analyze data frames using Jupyter Notebook.
 -Conducted consistency checks, grouped data, and aggregated variables to create final datasets using Python.
@@ -10,6 +11,7 @@ Performed an initial data and exploratory analysis for a grocery company to sugg
 
 
 **Objective:**
+
 You’re an analyst for an existing company, Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
 want to uncover more information about their sales patterns. Your task is to
